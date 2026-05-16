@@ -1,0 +1,6 @@
+<group name="local,syslog,sshd,">
+  <rule id="100002" level="12" frequency="5" timeframe="60">
+    <if_matched_sid>5760</if_matched_sid>
+    <description>CUSTOM ALERT: Multiple SSH failed logins detected (Possible Brute Force)</description>
+  </rule>
+</group>

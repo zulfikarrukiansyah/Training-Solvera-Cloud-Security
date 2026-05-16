@@ -1,0 +1,8 @@
+﻿=== CHAIN OF CUSTODY ===
+File    : memory-dump-inc001.dmp
+Size    : 4117.87 MB
+SHA256  : DBD13C9DEE13BBAE71D39D0BBECA379BF3F8F4040128D6ABC472EA5A13C06DE4
+Date    : 2026-05-15T01:57:40Z
+Analyst : Security Student
+Case    : INC-2026-001
+VM      : Victim PC (VirtualBox)
